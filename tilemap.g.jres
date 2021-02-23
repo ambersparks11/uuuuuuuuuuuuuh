@@ -1,0 +1,86 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAC8a2bMbGZmZsz2bMZsZmZmb2Zmb2xmZmZvZmZvbGZmZs/2bMxsZmZm/2zGd2dmZmb//3xvZ2ZmZv//d3dnZmZm/8x3d2dmZmbMzHxvZ2ZmZsz8z3dnZmZmzL+9zGxmZmbMzN3LbGZmZs/8z7tsZmZm/9zdvGtmZmbPzdvNa2ZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAADf3c3ba2ZmZt/dzdtrZmZmz83bzWtmZmb/3N28a2ZmZsz/z7tsZmZmzM/d/G9mZmbMv73/b2ZmZvz///9vZmZm/7wz+2xmZmbP+zyzbGZmZr+7MzxsZmZmv7szPGxmZmbP+zyzbGZmZv+8M9ttZmZmz/zPvWxmZmbMzL/dbWZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAREREREREREREREREREfH/ERERERER8f8RERERERHx/xEREREREfH/ERERERER8f/////////////////////////////////x/xERERHx//H/EREREfH/8f8RERER8f/x/xERERHx//H/EREREfH/ERERERER8f8REREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAAREREREREREfH/EfH///8f8f8R8f///x/x/xHx////H/H/EfH/Ef8f8f8R8f8R/x/x/xHx/xH/H/H/EfH/Ef8f8f8R8f8R/x/x/xHx/xH/H/H/EfH/Ef8f8f8R8f8R/x/x/////xH/H/H/////Ef8f8f////8R/x8REREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile2"
+    },
+    "tile5": {
+        "data": "hwQQABAAAADMzMzMzMzMzN3d3d3d3d3dRES7u7u7u7tCREREtLu7uyJEREREREREIiJCREREREQiVVVVVVVfVSL/9V//Vf//Iv//X/9V/18i//9VVVVfVSIiQkREREREIkRERERERERCREREtLu7u0REu7u7u7u73d3d3d3d3d3MzMzMzMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile3"
+    },
+    "tile6": {
+        "data": "hwQQABAAAADMzMzMzMzMzN3d3d3d3d3du7u7u7u7RES7u7tLREREJEREREREREQiREREREQkIiJV9VVVVVVVIv//Vf/1X/8i9f9V//X//yJV9VVVVf//IkREREREJCIiRERERERERCK7u7tLREREJLu7u7u7u0RE3d3d3d3d3d3MzMzMzMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile4"
+    },
+    "tile8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile6"
+    },
+    "tile7": {
+        "data": "hwQQABAAAAARESFVVVVVVRERIVVVVVVVEREh8iIREVURESEi/xERURERIfIiEREREREhLyIRERERESEi8hERERERIfL/EREREREhLy8RERERESHy/xERERERIS/yEREREREh8iIRERERESEi/xERURERIfIiERFVEREhVVVVVVURESFVVVVVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile5"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMDEwNDAzMDQwMzA0MDMwNDAzMDQwMzA0MDMwNDAzMDIwZDBkMGQwZDBkMGMxMTBlMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwNTA1MDUwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDA1MDUwNTBkMGQwZDBkMGQwZDBkMGQwOTA4MDgwODA4MDYwNTA3MDgwODA4MDgwYTBkMGQwZDA1MGQwZDBkMGQwOTBiMGEwZDBkMGQwZDA1MGQwZDBkMDUwZDBkMGQwZDA1MGQwNTBkMGQwZDBkMDUwZDBkMGQwZjBkMGQwZDBkMTAwZDEwMGQwZDBkMGQwZjBkMGQwZDA1MGQwZDBkMDkwNjBkMDcwYTBkMGQwZDA1MGQwZDBkMDUwZDBkMGQwNTBkMGQwZDA1MGQwZDBkMDUwZDBkMGQwNTBkMGQwZDA1MGQwZDBkMDUwZDBkMGQwNTBkMGQwZDA1MGQwZDBkMTAwZDBkMGQxMDBkMGQwZDA1MGQwZDBkMDcwODA4MDgwNjBkMGQwZDA3MDgwODA4MDYwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.builtin.crowd0",
+            "sprites.builtin.crowd7",
+            "myTiles.tile1",
+            "myTiles.tile2",
+            "sprites.vehicle.roadVertical",
+            "sprites.vehicle.roadTurn4",
+            "sprites.vehicle.roadTurn3",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.vehicle.roadTurn1",
+            "sprites.vehicle.roadTurn2",
+            "sprites.vehicle.roadIntersection1",
+            "myTiles.tile3",
+            "sprites.builtin.brick",
+            "myTiles.tile4",
+            "myTiles.tile5",
+            "myTiles.tile6",
+            "myTiles.tile7"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
